@@ -1,6 +1,6 @@
 [![Buy Me A Coffee](https://img.shields.io/badge/Buy%20Me%20A%20Coffee-support%20my%20work-FFDD00?style=flat&labelColor=101010&logo=buy-me-a-coffee&logoColor=white)](https://www.buymeacoffee.com/r0mymendez)
 
---
+---
 
 # My Preparation Journey for GitHub Fundamentals Certification
 
@@ -357,7 +357,7 @@ in:discussions is:open language:python
 topic:machine-learning stars:>1000 is:issue label:help-wanted language:python is:open
 ```
 
---
+---
 
 ## 🟠 Summary
 
